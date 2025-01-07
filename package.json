@@ -1,0 +1,16 @@
+{
+  "name": "cv-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Libor Vaněk",
+  "license": "ISC",
+  "description": "Backend part of the Curriculum Vitae application",
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "typescript": "^5.7.2"
+  }
+}
